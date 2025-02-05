@@ -1,0 +1,3 @@
+logo : https://product-assets.faasos.io/eatsure_cms/production/333b405b-13b6-429f-82db-900e9795da54.png
+side:https://product-assets.faasos.io/eatsure_cms/production/fbd216f6-022b-409b-8335-b57cdc3dc644.jpg
+json-server --watch src\db.json --port 3007
